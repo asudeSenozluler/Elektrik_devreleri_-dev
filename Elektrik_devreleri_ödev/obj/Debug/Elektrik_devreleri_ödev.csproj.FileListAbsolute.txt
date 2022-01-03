@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\bin\Debug\Elektrik_devreleri_ödev.exe.config
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\obj\Debug\Elektrik_devreleri_ödev.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\obj\Debug\Elektrik_devreleri_ödev.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\obj\Debug\Elektrik_devreleri_ödev.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\obj\Debug\Elektrik_devreleri_ödev.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\bin\Debug\Elektrik_devreleri_ödev.exe
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\bin\Debug\Elektrik_devreleri_ödev.pdb
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\obj\Debug\Elektrik_devreleri_ödev.exe
+C:\Users\asus\Desktop\udemy kurs\Elektrik_devreleri_ödev\Elektrik_devreleri_ödev\obj\Debug\Elektrik_devreleri_ödev.pdb
